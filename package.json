@@ -1,0 +1,24 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "又一次开头写博客，加油啊啊啊啊啊啊",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mirror-late/demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mirror-late/demo/issues"
+  },
+  "homepage": "https://github.com/Mirror-late/demo#readme",
+  "devDependencies": {
+    "vuepress": "^1.9.7"
+  }
+}
